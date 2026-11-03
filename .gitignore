@@ -1,0 +1,12 @@
+# This repository is an explicitly allowlisted binary-distribution page.
+# Never add a development checkout, credentials, saves, or caches here.
+*
+!.gitignore
+!README.md
+!LICENSE
+!THIRD_PARTY_NOTICES.md
+!images/
+!images/icon.png
+!images/terrain-sandbox.png
+!images/marker-editor.png
+!images/world-waypoints.png
